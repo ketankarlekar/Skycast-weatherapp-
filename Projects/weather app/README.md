@@ -4,7 +4,7 @@ A clean, responsive weather app built with vanilla HTML, CSS, and JavaScript. Fe
 
 ## Live Demo
 
-🌐 [View on Netlify](#) <!-- URL will be updated after deployment -->
+🌐 [View on Netlify](http://gorgeous-muffin-f8fbd8.netlify.app)
 
 ## Features
 
@@ -25,7 +25,7 @@ A clean, responsive weather app built with vanilla HTML, CSS, and JavaScript. Fe
 
 ## Project Structure
 
-```
+```text
 weather app/
 ├── index.html   # Markup and structure
 ├── index.js     # WeatherApp class + event wiring
@@ -58,7 +58,7 @@ npx serve .
 Powered by [OpenWeatherMap](https://openweathermap.org/api). The app uses two endpoints:
 
 | Endpoint | Purpose |
-|---|---|
+| --- | --- |
 | `/weather` | Current weather for a city |
 | `/forecast` | 3-hour interval data for 5 days |
 
